@@ -16,13 +16,13 @@
   ],
 
   "browser_action": {
-    "default_icon": "img/bird.png",
+    "default_icon": "img/logo2.png", //bird.png
     "default_popup": "page.html"
   },
 
-  "icons": { "16": "img/bird.png",
-             "48": "img/bird.png",
-             "128": "img/bird.png" },
+  "icons": { "16": "img/logo2.png",
+             "48": "img/logo2.png",
+             "128": "img/logo2.png" },
 
   "background": {
   	"scripts": [
